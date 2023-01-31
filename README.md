@@ -8,3 +8,5 @@ This is a Portfolio Website Template, designed using html and css.
 ## Followed Design Principles to create this website
 1. Visual Hierarchy
 2. White Space and Clean Design
+
+
